@@ -1,0 +1,43 @@
+Interviewer: The funeral industry is changing quickly. How big is the market in Utah and who do you serve?
+
+CEO: Utah’s funeral sector isn’t huge but it’s steady. A recent IBISWorld state‑level report estimates that there are 209 funeral-home businesses in Utah employing about 1,093 people and generating around $204.5 million in revenue in 2026. Our shop partners with roughly two dozen of those funeral homes as a specialty supplier of customized casket interiors and exterior detailing.
+
+Utah recorded about 21,278 deaths in 2023 and 21,511 deaths in 2024
+localhost
+, so the entire state sees just over 21,000 decedents per year. Nationally, only about 56 % of bodies are casketed because the rest choose cremation. Applying that ratio locally yields demand for roughly 11,500–12,000 caskets each year. With 209 funeral homes splitting that market, the average home needs about 55–60 caskets per year. As a detailing business, we handle roughly 600–700 caskets annually, about 5 % of the state’s volume.
+
+Interviewer: How do you decide how many caskets or interiors to order and keep on hand?
+
+CEO: Inventory discipline is critical because caskets are bulky and expensive to store. Our planning starts with the statewide death statistics and cremation trend. The National Funeral Directors Association (NFDA) projects that cremation will account for 63.4 % of dispositions in 2025, leaving only 31.6 % for burials. Other analysts note that Western states such as Washington, Oregon, Nevada and Colorado could exceed 80 % cremation by 2035. Utah isn’t there yet, but we see cremation rates climbing toward 60 %. That means casket demand is slowly declining.
+
+To avoid sitting on unsold inventory, we use a just‑in‑time (JIT) inventory system. Accounting experts in the death‑care sector recommend JIT because it keeps enough stock to meet immediate needs without tying up cash and storage space. We keep only about 10–15 finished caskets and 30–40 interior kits on site – enough for two weeks’ orders. We reorder once stock drops below 40 % so there’s time for suppliers to deliver.
+
+Interviewer: What factors influence your ordering quantities?
+
+CEO: Several:
+
+Seasonality and lead times. Deaths aren’t as seasonal as retail products, but winter tends to be busier. Our suppliers need two to four weeks to ship custom parts because many caskets are made overseas. A trade analysis notes that a large share of U.S. caskets are imported from China, Mexico and Canada, so tariffs and shipping delays matter. A 25 % tariff on a $1,000 imported casket adds $250 to our cost, so we schedule orders early and keep some domestic units on hand.
+
+Shift toward value‑priced options. An NFDA statistics report shows the median price of a funeral with viewing and burial at $8,300 and a funeral with cremation at $6,280. Families are cost‑sensitive; a consumer‑advocacy article notes that funeral homes often mark up caskets 300–500 % over wholesale, meaning a casket that costs $600 wholesale might sell for $3,000. We offer mid‑tier wood and steel interiors costing $900–$1,500 retail so families feel they’re getting value without a high markup.
+
+Competition from online sellers. Direct‑to‑consumer companies such as Titan Casket sell a steel casket online for $1,999 and remind families that using the FTC’s Funeral Rule can save about 85 % off funeral‑home prices. We can’t match those prices on basic models, so we focus on customization – hand‑painted panels, premium fabrics or themed designs that online providers don’t offer. This niche commands higher margins and reduces price pressure.
+
+Casket type mix. Industry guides show that steel caskets range from $825 to $1,600 depending on gauge, with stainless steel costing $2,350–$3,050; wood caskets range $1,000–$3,550 depending on species; and bronze or copper caskets can reach $4,125–$8,100. We track which materials sell best locally – sturdy 18‑gauge steel and mid‑priced oak – and order those more frequently. We keep only one or two high‑end bronze units in stock because they sell slowly.
+
+Interviewer: So what are your reorder points and when do you decide not to order more?
+
+CEO: Our reorder point formula considers average weekly sales and lead time. For example, if we sell 15 caskets per week, have a three‑week lead time and keep a safety stock of 10 units, we reorder when inventory hits (15 × 3 )+ 10 = 55 units. For our detailing kits, which sell faster and take just one week to restock, we reorder when stock dips to 20 units. We do not order more of a particular design if it hasn’t sold in six months. Holding unsold inventory eats into cash and storage capacity.
+
+We also slow ordering when cremation demand spikes. For instance, Utah’s average direct cremation costs only $1,627 and an affordable burial costs $4,655, whereas our customized casket packages can exceed $4,000. If cremation packages outsell burial packages three‑to‑one in a month, we cut our next casket order by 20 % and shift those funds to cremation urns and memorial products.
+
+Interviewer: How do you decide what to sell versus what not to sell?
+
+CEO: We categorize products into core, specialty, and experiments. Core items are mid‑priced steel and hardwood caskets with neutral finishes; they account for about 70 % of sales. Specialty items are high‑margin custom themes – military service, outdoors or religious motifs – which we design ourselves. Experiments include eco‑friendly or “green” caskets, like bamboo or cardboard, which cost $100–$700. We test a few of these to gauge demand but won’t carry large quantities until we see consistent orders. If a new design fails to sell four units within a quarter, we discontinue it.
+
+We also avoid selling low‑cost imported caskets without customization because we can’t compete with direct‑to‑consumer pricing and they don’t align with our brand. Instead, we partner with online sellers to offer our detailing services as an add‑on, creating a new revenue stream without carrying extra inventory.
+
+Interviewer: What changes do you foresee for coffin businesses in Utah over the next decade?
+
+CEO: The cremation rate is expected to top 80 % by 2035, which will shrink the traditional casket market. To remain relevant, coffin businesses will need to diversify into cremation products, personalized memorials, green burials, and digital planning services. Inventory models will shift toward build‑to‑order and drop‑shipping rather than warehousing dozens of caskets. Strong supplier relationships, flexible manufacturing, and financial discipline will be critical.
+
+For now, however, there’s still a market for beautifully crafted caskets. By carefully analyzing demand, leveraging JIT inventory practices and focusing on customization, we keep our operations lean while honoring families’ wishes.
