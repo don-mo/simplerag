@@ -1,6 +1,10 @@
 import anthropic
+from dotenv import load_dotenv
+import os
 
-client = anthropic.Anthropic(api_key="floop")
+load_dotenv()
+
+client = anthropic.Anthropic(api_key=os.getenv("API_KEY"))
 
 transcript = open("interview.txt", encoding="utf-8").read()
 while True:

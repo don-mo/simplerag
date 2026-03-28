@@ -1,0 +1,7 @@
+<form method="post">
+  <input type="text" name="question" placeholder="Please ask a question">
+  <button type="submit">Ask</button>
+</form>
+{% if answer %}
+  <p>{{ answer }}</p>
+{% endif %}
