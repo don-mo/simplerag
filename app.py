@@ -2,6 +2,9 @@ from flask import Flask, request, render_template
 import anthropic
 from dotenv import load_dotenv
 import os
+import markdown
+
+
 
 load_dotenv()
 
@@ -23,5 +26,6 @@ def hello_world():
         ]
     )
     answer = message.content[0].text
+    answer = markdown.markdown(answer)
   return render_template('index.html', answer=answer)
 app.run(port=5000)

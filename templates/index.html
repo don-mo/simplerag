@@ -1,7 +1,39 @@
-<form method="post">
-  <input type="text" name="question" placeholder="Please ask a question">
-  <button type="submit">Ask</button>
-</form>
-{% if answer %}
-  <p>{{ answer }}</p>
-{% endif %}
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RAG Question Answering</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}"> <!-- Link to your CSS file and static is the place flask asks for static files instead of the root so you start with css instead of protoragproject -->
+  </head>
+  <body>
+    <div class="container">
+      <div id="top">
+        <h1>OpDecision AI</h1>
+      </div>
+      <!-- <div id="left">
+        <p>left</p>
+      </div> -->
+      <div id="right">
+        <div id="sub-header">Minstoof v1: U ´ᴥ` U</div>
+        <div id="content-area">
+          <form method="post">
+            <input type="text" name="question" placeholder="Please ask a question">
+            <button type="submit">Ask</button>
+
+          </form>
+          {% if answer %}
+            <h2 id="Opdecision">Minstoof's answer:</h2>
+            <p id="Answer">{{ answer | safe}}</p>
+          {% endif %}
+        </div>
+
+      </div>
+    </div>
+  </body>
+
+  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</html>
