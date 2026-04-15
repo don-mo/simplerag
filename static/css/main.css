@@ -1,9 +1,18 @@
 
 
-input {
-  width: 15%;
-  border-radius: 5px;
-
+textarea {
+  width: 100%;
+  height: 150px;
+  padding: 12px;
+  box-sizing: border-box;
+  border: 2px solid oklch(0.305 0.1355 269.14);
+  border-radius: 4px;
+  background-color: oklch(0.305 0.1355 269.14);
+  font-size: 16px;
+  resize: none;
+  margin-left: 35px;
+  outline: none;
+  color: white;
 }
 
 body {
@@ -15,13 +24,14 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-h1, #right {
+h1 {
   color: #fca311;
 }
-
-button:hover, #top {
-  background-color: #14213d;
+#right {
+  color: #fffefd;
 }
+
+
 
 #top{
     position: absolute;
@@ -30,7 +40,31 @@ button:hover, #top {
     width: 100%;
     top: 0;
     margin: 0;
+
 }
+
+#reset {
+  background-color: oklch(80% 0.05 270);
+  color: #14213d;
+}
+#top, #right, form {
+  display: flex;
+  justify-content: center;
+}
+
+form {
+  background-color: oklch(0.305 0.1355 269.14);
+  height: 18%;
+  width: 32%;
+  margin: auto;
+  border-radius: 17px;
+
+}
+#top {
+    align-items: center;
+}
+
+
 
 /*#left {
     background: #e3e3e3;
@@ -52,13 +86,38 @@ button:hover, #top {
 
 }
 div#right div {
-  margin-left: 10px;
   margin-top: 5px;
 }
 
 button:hover, strong {
     color: #fca311;
+    background-color: #14213d;
   }
+
+button#reset:hover, #top {
+  background-color: #000;
+  color: #ccc;
+}
+
+div#buttons-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+}
+
+div#buttons-container button {
+  flex: 1 1 0;
+  width: 89%;
+  margin-right: 5px;
+  margin-bottom: 5px;
+
+}
+
+p, h2 {
+  margin: 30px;
+}
+
+
 
 button {
         background-color: #fca311;
@@ -99,3 +158,19 @@ button {
 
   white-space: pre-wrap;
 }
+
+.assistant-msg {
+  background-color: oklch(0.3554 0.08 264.49);
+  padding: 42px;
+  border-radius: 50px 259px 15px 30px;
+  margin-left: 254px;
+}
+
+.user-msg {
+  background-color: oklch(0.319 0.1063 289.18);
+  padding: 37px;
+  border-radius: 93px 50px 30px 5px;
+  width: 70%;
+  margin-left: 34px;
+}
+

@@ -21,13 +21,24 @@
         <div id="sub-header">Minstoof v1: U ´ᴥ` U</div>
         <div id="content-area">
           <form method="post">
-            <input type="text" name="question" placeholder="Please ask a question">
-            <button type="submit">Ask</button>
+
+            <textarea name="question" rows="5" cols="30" placeholder="Please ask a question"></textarea>
+            <div id="buttons-container">
+              <a><button type="submit">Ask</button></a>
+              <a href="/reset"><button type="button" id="reset">Reset</button></a>
+            </div>
+          </form>
 
           </form>
-          {% if answer %}
+          {% if messages %}
             <h2 id="Opdecision">Minstoof's answer:</h2>
-            <p id="Answer">{{ answer | safe}}</p>
+            {% for message in messages[2:] %}
+              {% if message.role == "user" %}
+                <div class="user-msg">You: {{ message.content }}</div>
+              {% else %}
+                <div class="assistant-msg">Minstoof: {{ message.content | safe }}</div>
+              {% endif %}
+            {% endfor %}
           {% endif %}
         </div>
 

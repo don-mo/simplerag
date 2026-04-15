@@ -1,0 +1,402 @@
+/* Extra small devices (phones, 600px and down) */
+@media only screen and (max-width: 600px) {
+
+  #hero, #problem, #solution{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }
+
+  #hero, #solution {
+    background-color: oklch(22% 0.05 270);
+  }
+
+  #hero, #problem{
+    height: 100vh;
+  }
+
+  #problem {
+    background-color: oklch(80% 0.05 270);
+  }
+
+  #hero, #problem, #solution {
+    overflow-y: auto;
+  }
+
+  h2, h3 {
+    margin-top: 0;
+    padding-top: 5px;
+  }
+
+  #hero-item, div#solution p, #problem p {
+    width: 87%;
+  }
+
+  h2, h1, p {
+    color: #fca311;
+  }
+
+  p {
+    margin: 5px 0;
+    color: #ffffff;
+  }
+
+  h3 {
+    color: #e5e5e5;
+  }
+
+  body {
+    font-size: 16px;
+    line-height: 125%;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #000000;
+  }
+
+  h2 {
+    font-size: 160%;
+  }
+
+  h1 {
+    font-size: 200%;
+  }
+
+  p {
+    font-size: 109%;
+    /* line-height: 1cm; */
+  }
+
+  button {
+    background-color: #fca311;
+    color: #14213d;
+    font-weight: bold;
+    border: none;
+    padding: 16px;
+    border-radius: 12px;
+    font-size: 100%;
+    transition-duration: 0.4s;
+  }
+
+  button:hover {
+    color: #fca311;
+  }
+
+  button:hover, #navbar {
+    background-color: #14213d;
+  }
+
+  #problem p, #problem h2 {
+    color: black;
+  }
+
+  strong {
+    color: #fca311;
+  }
+
+  strong.black {
+    color: black;
+  }
+
+  div#solution {
+    height: 125vh;
+  }
+
+  #title {
+    font-size: 342%;
+  }
+
+  #title, button {
+    white-space: nowrap;
+  }
+
+  #navbar {
+    /*3-13-26*/
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+  }
+
+  #navbar a {
+    float: left;
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  #hero {
+    text-align: center;
+  }
+
+}
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+@media only screen and (min-width: 600px) {
+  #hero, #problem, #solution{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }
+
+  #hero, #solution {
+    background-color: oklch(22% 0.05 270);
+  }
+
+  #hero, #problem{
+    height: 100vh;
+  }
+
+  #problem {
+    background-color: oklch(80% 0.05 270);
+  }
+
+  #hero, #problem, #solution {
+    overflow-y: auto;
+  }
+
+  h2, h3 {
+    margin-top: 0;
+    padding-top: 5px;
+  }
+
+  #hero-item, div#solution p, #problem p {
+    width: 87%;
+  }
+
+  h2, h1, p {
+    color: #fca311;
+  }
+
+  p {
+    margin: 5px 0;
+    color: #ffffff;
+  }
+
+  h3 {
+    color: #e5e5e5;
+  }
+
+  body {
+    font-size: 16px;
+    line-height: 125%;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #000000;
+  }
+
+  h2 {
+    font-size: 160%;
+  }
+
+  h1 {
+    font-size: 200%;
+  }
+
+  p {
+    font-size: 109%;
+    /* line-height: 1cm; */
+  }
+
+  button {
+    background-color: #fca311;
+    color: #14213d;
+    font-weight: bold;
+    border: none;
+    padding: 16px;
+    border-radius: 12px;
+    font-size: 100%;
+    transition-duration: 0.4s;
+  }
+
+  button:hover {
+    color: #fca311;
+  }
+
+  button:hover, #navbar {
+    background-color: #14213d;
+  }
+
+  #problem p, #problem h2 {
+    color: black;
+  }
+
+  strong {
+    color: #fca311;
+  }
+
+  strong.black {
+    color: black;
+  }
+
+  div#solution {
+    height: 125vh;
+  }
+
+  #title {
+    font-size: 556%;
+  }
+
+  #title, button {
+    white-space: nowrap;
+  }
+
+  #navbar {
+    /*3-13-26*/
+    position: sticky;
+    top: 0;
+    overflow: hidden;
+  }
+
+  #navbar a {
+    float: left;
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+  #hero {
+    text-align: center;
+  }
+}
+/* Large devices (laptops/desktops, 992px and up) */
+@media only screen and (min-width: 1160px) {
+
+
+  #hero, #problem, #solution{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+  }
+
+  #hero, #solution {
+    background-color: oklch(22% 0.05 270);
+  }
+
+  #hero, #problem{
+    height: 100vh;
+  }
+
+  #problem {
+    background-color: oklch(80% 0.05 270);
+  }
+
+  #hero, #problem, #solution {
+    overflow-y: auto;
+  }
+
+  h2, h3 {
+    margin-top: 0;
+    padding-top: 5px;
+  }
+
+  #hero-item, div#solution p, #problem p {
+    width: 87%;
+  }
+
+  h2, h1, p {
+    color: #fca311;
+  }
+
+  p {
+    margin: 5px 0;
+    color: #ffffff;
+  }
+
+  h3 {
+    color: #e5e5e5;
+  }
+
+  h1 {
+    left: 10%;
+  }
+
+  body {
+    font-size: 16px;
+    line-height: 125%;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #000000;
+  }
+
+  h2 {
+    font-size: 160%;
+  }
+
+  h1 {
+    font-size: 200%;
+  }
+
+  p {
+    font-size: 150%;
+    line-height: 1cm;
+  }
+
+  button {
+    background-color: #fca311;
+    color: #14213d;
+    font-weight: bold;
+    border: none;
+    padding: 16px;
+    border-radius: 12px;
+    font-size: 100%;
+    transition-duration: 0.4s;
+  }
+
+  button:hover, strong {
+    color: #fca311;
+  }
+
+  button:hover, #navbar {
+    background-color: #14213d;
+  }
+
+  #problem p, #problem h2, strong.black {
+    color: black;
+  }
+
+  div#solution {
+    height: 125vh;
+  }
+
+  #title {
+    font-size: 1000%;
+  }
+
+  #navbar {
+    /*3-13-26*/
+    position: sticky;
+    top: 0; /* rids of extra buffer */
+    overflow: hidden;
+  }
+
+  #navbar a {
+    float: left;
+    display: block;
+    color: #ffffff;
+    text-align: center;
+    padding: 14px;
+    text-decoration: none;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+
+}
