@@ -1,5 +1,4 @@
 from flask import Flask, request, render_template, redirect
-from flask_session import Session
 
 import anthropic
 from dotenv import load_dotenv
@@ -11,12 +10,6 @@ import markdown
 load_dotenv()
 
 app = Flask(__name__)
-
-app.config['SESSION_TYPE'] = False # Sessions (accounts) expire when the browser is closed
-app.config['SESSION_TYPE'] = "filesystem" # Store session data in files (on your own local computer)
-
-# Initialize the flask-session (login request using cookies)
-Session(app)
 
 client = anthropic.Anthropic(api_key=os.getenv('API_KEY'))
 transcript = open("interview.txt", encoding="utf-8").read()
