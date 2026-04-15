@@ -2,7 +2,7 @@
 
 textarea {
   width: 100%;
-  height: 150px;
+  height: 100%;
   padding: 12px;
   box-sizing: border-box;
   border: 2px solid oklch(0.305 0.1355 269.14);
