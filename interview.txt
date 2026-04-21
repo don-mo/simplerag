@@ -1,43 +1,355 @@
-Interviewer: The funeral industry is changing quickly. How big is the market in Utah and who do you serve?
 
-CEO: Utah’s funeral sector isn’t huge but it’s steady. A recent IBISWorld state‑level report estimates that there are 209 funeral-home businesses in Utah employing about 1,093 people and generating around $204.5 million in revenue in 2026. Our shop partners with roughly two dozen of those funeral homes as a specialty supplier of customized casket interiors and exterior detailing.
 
-Utah recorded about 21,278 deaths in 2023 and 21,511 deaths in 2024
-localhost
-, so the entire state sees just over 21,000 decedents per year. Nationally, only about 56 % of bodies are casketed because the rest choose cremation. Applying that ratio locally yields demand for roughly 11,500–12,000 caskets each year. With 209 funeral homes splitting that market, the average home needs about 55–60 caskets per year. As a detailing business, we handle roughly 600–700 caskets annually, about 5 % of the state’s volume.
+Eat Together Leadership Packet
+by Rachel Hu
 
-Interviewer: How do you decide how many caskets or interiors to order and keep on hand?
+You got this Eric 👏👏👏
+Why does this matter?
+Eat Together is changing the world, one meal at a time. This may sound dramatic, but truly, by connecting people through food we can generate so many new insights and learning experiences. Imagine what the world would look like if people from all backgrounds came together to the same dining table.
+And now you, Eric, have become the head of Eat Together. You have the opportunity to lead the company in a way that truly makes a positive impact on the world.
+How to use this packet:
+This is a super long document, so you don’t have to read the whole thing at once. Instead, whenever you find yourself struggling or confused, come back to this as a resource and be reminded that we’re here to support you. Skip to the parts that are most relevant to your scenario! And remember, you can always contact Rachel or other teammates for advice too :)
+Key Leadership Tips
+Communicate clearly:
+Make sure your team understands their goals and the expectations you have for their work.
+Foster collaboration:
+Encourage teamwork and collaboration, and create an open and inclusive work environment.
+Set clear goals:
+Set clear, measurable goals for your team, and help them develop the skills and resources they need to achieve those goals.
+Empower your team:
+Give your team the autonomy and authority they need to do their jobs effectively.
+Provide support:
+Be available to support and guide your team, and provide them with the resources they need to succeed.
+Encourage growth:
+Help your team members develop their skills and advance in their careers.
+Be a good role model:
+Lead by example, and set a positive tone for your team.
+Be flexible:
+Be open to new ideas and approaches, and be willing to adapt to change.
+Show appreciation:
+Recognize and reward the contributions of your team members, and show your appreciation for their hard work.
+Protecting the Value of Eat Together
+Clearly communicate your values:
+Make sure that your team members understand the values that are important to your company, and how those values should be reflected in their work.
+Foster a culture of inclusivity:
+Make sure that Eat Together is a welcoming and inclusive place for people from all backgrounds. This may involve implementing diversity and inclusion initiatives, or simply creating a culture of respect and understanding.
+Focus on building meaningful connections:
+Encourage people to engage in meaningful conversation and connection while they are at the dining table. Create an environment that encourages people to open up and share their thoughts and experiences.
+Partner with like-minded organizations:
+Look for opportunities to collaborate with other organizations that share your values and mission. This could involve partnering with charities or non-profits, or simply working with other businesses that share your commitment to inclusivity and connection.
+Foster a culture of integrity:
+Create a culture of integrity and trust within your team, and encourage team members to speak up if they see any behavior that goes against the values of the company.
+Review and evaluate your values regularly:
+Regularly review and evaluate the values of the company, and make adjustments as needed to ensure that they are still relevant and meaningful to your team and your business.
+Startup Business Development
+Identifying a Target Market
+1.	Define your product or service:
+Clearly define what your product or service is and what value it provides to customers.
+2.	Identify your target customer:
+Think about the characteristics of the people who are most likely to benefit from your product or service. Consider factors such as age, gender, income level, location, and interests.
+3.	Research your target market:
+Conduct market research to gather more detailed information about your target market. This can include conducting surveys, analyzing industry data, or talking to potential customers.
+4.	Evaluate your target market's needs and wants:
+Consider the specific needs and wants of your target market, and how your product or service can meet those needs.
+5.	Determine your target market's size:
+Estimate the size of your target market to determine how large of an opportunity it represents for your business.
+Customer Acquisition and Retention
+1.	Identify your target customers:
+Clearly define your target customer base and understand their needs and preferences.
+2.	Develop a customer acquisition strategy:
+Create a plan for attracting new customers, which may include activities such as marketing and advertising, lead generation, or sales efforts.
+3.	Foster customer loyalty:
+Encourage customer loyalty by providing excellent customer service, offering value-added benefits, and regularly soliciting customer feedback.
+4.	Create a customer retention plan:
+Develop a plan for retaining existing customers, which may include activities such as loyalty programs, personalized communication, or regular engagement with customers.
+5.	Monitor and analyze customer behavior:
+Use data and analytics to understand customer behavior and identify opportunities to improve customer acquisition and retention efforts.
+Revenue Streams
+1.	Clearly define your value proposition:
+Understand the value that your product or service provides to customers, and communicate this value clearly to potential customers.
+2.	Determine your pricing strategy:
+Consider the cost of your product or service, as well as factors such as market demand and competition, when determining your pricing strategy.
+3.	Identify potential revenue streams:
+Explore different ways to monetize your product or service, including through direct sales, subscriptions, or licensing arrangements.
+4.	Develop a sales and marketing plan:
+Create a plan for promoting and selling your product or service, which may include activities such as advertising, content marketing, or sales efforts.
+5.	Monitor and optimize your revenue stream:
+Regularly track and analyze your revenue stream, and look for opportunities to optimize and improve your sales and marketing efforts.
+Partnerships and Collaboration
+1.	Identify potential partners:
+Research companies or organizations that align with your business goals and values, and that may be able to offer valuable resources or opportunities.
+2.	Define the terms of the partnership:
+Clearly define the terms of the partnership, including the roles and responsibilities of each party, any financial arrangements, and the timeline for the partnership.
+3.	Develop a communication plan:
+Establish a plan for how you will communicate with your partner and how you will resolve any issues or conflicts that may arise.
+4.	Foster a culture of collaboration:
+Encourage open communication and collaboration within your team, and work to build a strong, trusting relationship with your partner.
+5.	Regularly review and assess the partnership:
+Regularly review and assess the partnership to ensure that it is meeting your needs and goals, and make any necessary adjustments.
+Managing Conflict
+Personal conflicts:
+Personal conflicts may arise between team members due to differences in personality, values, or communication style.
+Encourage open communication:
+Encourage team members to communicate openly and honestly with each other, and create an environment where it is safe for team members to express their thoughts and feelings.
+Facilitate a resolution:
+Facilitate a resolution by encouraging team members to listen to each other's perspective, and by helping them find common ground and come to a mutually-beneficial solution.
+Encourage mediation:
+If necessary, consider bringing in a mediator to help facilitate resolution. This could be an external mediator, or someone within the company who is trained in conflict resolution.
+Address underlying issues:
+Look for underlying issues that may be contributing to the conflict, and work to address those issues to prevent future conflicts.
+Set clear guidelines:
+Set clear guidelines for how team members should interact with each other, and hold team members accountable for following those guidelines.
 
-CEO: Inventory discipline is critical because caskets are bulky and expensive to store. Our planning starts with the statewide death statistics and cremation trend. The National Funeral Directors Association (NFDA) projects that cremation will account for 63.4 % of dispositions in 2025, leaving only 31.6 % for burials. Other analysts note that Western states such as Washington, Oregon, Nevada and Colorado could exceed 80 % cremation by 2035. Utah isn’t there yet, but we see cremation rates climbing toward 60 %. That means casket demand is slowly declining.
+Role-related conflicts:
+Conflicts may occur when team members have different ideas about their roles and responsibilities, or when there is overlap or confusion about who is responsible for certain tasks.
+Identify the tasks and responsibilities of each role:
+Clearly define the specific tasks and responsibilities that are associated with each role within the team.
+Communicate the roles and responsibilities to team members:
+Make sure that all team members have a clear understanding of their roles and responsibilities, and how their work fits into the overall goals of the company.
+Assign roles and responsibilities based on skills and expertise:
+Consider the skills and expertise of team members when assigning roles and responsibilities, and make sure that each team member is well-equipped to handle their responsibilities.
+Document roles and responsibilities:
+Document the roles and responsibilities of each team member in a clear and concise manner, and make sure that all team members have access to this information.
+Review and adjust roles and responsibilities as needed:
+Regularly review and assess the roles and responsibilities of team members, and make any necessary adjustments to ensure that the team is working effectively and efficiently.
 
-To avoid sitting on unsold inventory, we use a just‑in‑time (JIT) inventory system. Accounting experts in the death‑care sector recommend JIT because it keeps enough stock to meet immediate needs without tying up cash and storage space. We keep only about 10–15 finished caskets and 30–40 interior kits on site – enough for two weeks’ orders. We reorder once stock drops below 40 % so there’s time for suppliers to deliver.
+Strategic conflicts:
+Conflicts may arise when there are different opinions about the direction or goals of the company, or when there is disagreement about how to achieve those goals.
+Define your goals:
+Clearly define your goals for the company, and consider how different strategies align with those goals.
+Consider the mission:
+Consider how different strategies align with the mission of connecting students through food, and whether they support or detract from this mission.
+Gather data and research:
+Gather data and research to inform your decision-making, and consider factors such as market demand, competition, and financial feasibility.
+Seek input from team members:
+Encourage open communication and seek input from team members, as they may have valuable insights and perspectives on different strategies.
+Seek outside input:
+If necessary, seek input from outside sources, such as advisors or industry experts, to help inform your decision.
+Team Dynamics
+How do I better delegate tasks?
+●	Clearly define the task:
+Clearly define the task that you are delegating (USE CLICKUP!!!), including the specific goals, deadlines, and any necessary resources.
+●	Consider the skills and experience of team members:
+Consider the skills and experience of team members when delegating tasks, and match tasks to the appropriate team member based on their abilities and interests.
+●	Provide necessary resources:
+Make sure that team members have the resources they need to complete their tasks, including any necessary training or support.
+●	Set clear expectations:
+Set clear expectations for how the task should be completed, and establish any necessary checkpoints or milestones for progress.
+●	Provide ongoing support:
+Offer ongoing support and guidance to team members as they work on their tasks, and be available to answer questions or provide assistance as needed.
+What do I do if some members aren’t pulling their weight?
+●	Communicate your concerns:
+Clearly communicate your concerns to the team member in question, and provide specific examples of how their performance is falling short. This can be done async via discord.
+●	Seek a resolution:
+Work with the team member to identify the root cause of the issue and develop a plan for addressing it. This may involve providing additional training or support, adjusting their workload, or setting clearer expectations.
+●	Monitor progress:
+Monitor the team member's progress and provide ongoing feedback and support to help them improve their performance.
+●	Consider alternative roles:
+If the issue persists despite your efforts to address it, consider whether the team member may be more suited to a different role within the company.
+What do I do if some members are rude to me?
+●	Establish consequences:
+Establish consequences for disrespectful behavior, and make it clear that this type of behavior will not be tolerated.
+●	Foster a positive team culture:
+Encourage a positive team culture by promoting open communication, mutual respect, and a supportive work environment.
+●	Remember, you are not perfect and negative feedback can be a great opportunity for growth. However, that does not give anyone the right to disrespect you.
 
-Interviewer: What factors influence your ordering quantities?
+How do I capitalize on everyone’s strengths?
+●	Identify team members' strengths:
+Take the time to understand the strengths of each team member, and consider how these strengths can be leveraged in their work.
+●	Match tasks to strengths:
+Match tasks and responsibilities to team members' strengths, and consider how you can use their strengths to achieve the goals of the team.
+●	Provide opportunities for growth:
+Provide opportunities for team members to develop and grow their strengths, such as through training or leadership roles.
+●	Encourage team members to use their strengths:
+Encourage team members to use their strengths in their work, and provide support and resources to help them do so.
+●	Recognize and reward team members for their strengths:
+Recognize and reward team members for their strengths, and celebrate their contributions to the team.
+When is the right time to let someone go?
+Deciding when to let someone go can be a difficult and complex decision, and it is important to approach this decision thoughtfully and carefully. Nevertheless, here are a few things to consider that may help guide your decision:
+Performance:
+If an employee's performance is consistently below expectations and efforts to improve their performance have not been successful, it may be time to consider letting them go.
+Fit with the company culture:
+If an employee's values or behaviors do not align with the company's culture and values, it may be necessary to let them go.
+Impact on the team:
+If an employee is having a negative impact on the team, such as causing conflict or reducing morale, it may be necessary to let them go.
 
-CEO: Several:
+Problematic Team Dynamics to Be Mindful Of:
+If you notice some of these dynamics, look at the other sections of the packet for guidance! Recognizing and addressing these problematic team dynamics is the first step to helping Eat Together work more effectively and efficiently.
+1.	Poor communication:
+Poor communication can lead to misunderstandings, conflict, and reduced productivity.
+2.	Lack of trust:
+A lack of trust within a team can lead to a lack of collaboration and a breakdown of teamwork.
+3.	Inefficient decision-making:
+If team members are not able to make decisions efficiently, it can lead to delays and a lack of progress.
+4.	Lack of accountability:
+If team members are not held accountable for their actions, it can lead to a lack of responsibility and a lack of progress.
+5.	Personal Conflict:
+Conflict between team members can be disruptive and damaging to team morale and productivity.
+Staying Motivated
+How do I keep the startup team motivated?
+●	Clearly define goals and expectations:
+Clearly define the goals and expectations for the team, and make sure that team members understand how their work fits into the bigger picture.
+●	Provide opportunities for growth and development:
+Provide opportunities for team members to grow and develop their skills and expertise, such as through training or leadership roles.
+●	Recognize and reward achievement:
+Recognize and reward team members for their achievements, and celebrate their contributions to the team.
+●	Foster a positive company culture:
+Foster a positive company culture that values open communication, collaboration, and mutual respect. This can help to create a sense of belonging and purpose for team members.
+●	Encourage a healthy work-life balance:
+Encourage a healthy work-life balance for team members, and be supportive of their personal and professional goals.
+Should I hide problems from my startup?
+It is generally not a good idea to hide problems from your startup team. In fact, being open and transparent about problems can be an important part of building trust and fostering a culture of teamwork and collaboration.
 
-Seasonality and lead times. Deaths aren’t as seasonal as retail products, but winter tends to be busier. Our suppliers need two to four weeks to ship custom parts because many caskets are made overseas. A trade analysis notes that a large share of U.S. caskets are imported from China, Mexico and Canada, so tariffs and shipping delays matter. A 25 % tariff on a $1,000 imported casket adds $250 to our cost, so we schedule orders early and keep some domestic units on hand.
+Lack of trust: Hiding problems can lead to a lack of trust within the team, as team members may feel that they are being kept in the dark.
+Inefficient problem-solving: By hiding problems, you may be missing out on the valuable insights and perspectives of your team members, which can hinder your ability to effectively solve problems.
+Reduced productivity: Hiding problems can lead to a lack of transparency and accountability, which can in turn lead to reduced productivity and efficiency.
+Negative impact on morale: Hiding problems can create a sense of uncertainty and lack of direction, which can have a negative impact on team morale.
 
-Shift toward value‑priced options. An NFDA statistics report shows the median price of a funeral with viewing and burial at $8,300 and a funeral with cremation at $6,280. Families are cost‑sensitive; a consumer‑advocacy article notes that funeral homes often mark up caskets 300–500 % over wholesale, meaning a casket that costs $600 wholesale might sell for $3,000. We offer mid‑tier wood and steel interiors costing $900–$1,500 retail so families feel they’re getting value without a high markup.
+In general, it is best to be open and transparent about problems, and to involve your team in finding solutions. This can help to foster a culture of teamwork and collaboration, and will ultimately be more beneficial for Eat Together.
+How do I talk about challenges?
+1.	Clearly communicate the challenge:
+Clearly communicate the challenge to your team, and provide relevant information and context to help them understand the situation.
+2.	Seek input and ideas from team members:
+Encourage team members to share their ideas and perspectives on the challenge, and seek their input on potential solutions.
+3.	Encourage open and honest communication:
+Foster an environment of open and honest communication, and encourage team members to speak up if they have concerns or ideas.
+4.	Keep the team informed:
+Keep the team informed about progress and developments related to the challenge, and provide regular updates.
+5.	Emphasize teamwork and collaboration:
+Emphasize the importance of teamwork and collaboration in finding solutions to challenges, and encourage team members to work together to find the best path forward.
+How do I talk about failure?
 
-Competition from online sellers. Direct‑to‑consumer companies such as Titan Casket sell a steel casket online for $1,999 and remind families that using the FTC’s Funeral Rule can save about 85 % off funeral‑home prices. We can’t match those prices on basic models, so we focus on customization – hand‑painted panels, premium fabrics or themed designs that online providers don’t offer. This niche commands higher margins and reduces price pressure.
+Acknowledge the failure:
+Acknowledge the failure and take responsibility for it, rather than trying to deflect blame or avoid the issue.
+Learn from the failure:
+Look for opportunities to learn from the failure and identify what went wrong and how it can be prevented in the future.
+Encourage open and honest communication:
+Encourage open and honest communication about failure, and create a safe and supportive environment where team members feel comfortable discussing their mistakes and failures.
+Emphasize growth and learning:
+Emphasize the importance of learning and growth, and encourage team members to view failure as an opportunity for learning and improvement.
 
-Casket type mix. Industry guides show that steel caskets range from $825 to $1,600 depending on gauge, with stainless steel costing $2,350–$3,050; wood caskets range $1,000–$3,550 depending on species; and bronze or copper caskets can reach $4,125–$8,100. We track which materials sell best locally – sturdy 18‑gauge steel and mid‑priced oak – and order those more frequently. We keep only one or two high‑end bronze units in stock because they sell slowly.
+Use failure as a teaching moment:
+Use the failure as a teaching moment to help team members learn from their mistakes and improve their skills and knowledge.
+You’re gonna do a great job Eric!!! No matter the end results, this is a journey to be proud of 😀
 
-Interviewer: So what are your reorder points and when do you decide not to order more?
 
-CEO: Our reorder point formula considers average weekly sales and lead time. For example, if we sell 15 caskets per week, have a three‑week lead time and keep a safety stock of 10 units, we reorder when inventory hits (15 × 3 )+ 10 = 55 units. For our detailing kits, which sell faster and take just one week to restock, we reorder when stock dips to 20 units. We do not order more of a particular design if it hasn’t sold in six months. Holding unsold inventory eats into cash and storage capacity.
 
-We also slow ordering when cremation demand spikes. For instance, Utah’s average direct cremation costs only $1,627 and an affordable burial costs $4,655, whereas our customized casket packages can exceed $4,000. If cremation packages outsell burial packages three‑to‑one in a month, we cut our next casket order by 20 % and shift those funds to cremation urns and memorial products.
+Personal notes from eric:
+Eat Together - Notes to Future Director
 
-Interviewer: How do you decide what to sell versus what not to sell?
+By: Eric Xiao 
+Table of Contents
+1.	Preface
+2.	Culture 🎉
+3.	Hiring 🤝
+4.	Printing 🖨️
+5.	Reservations 🪟
+6.	People and Conflicts 🤔
+7.	Getting Stuff Done 💪
+8.	Conclusion 🌯
+ 
+Preface
+This is Eric, one of the co-founders and previous directors of Eat Together. Congratulations on making it here! You have just taken a big step to lead the wonderful mission of bringing students together over food! 🍽️🥳
 
-CEO: We categorize products into core, specialty, and experiments. Core items are mid‑priced steel and hardwood caskets with neutral finishes; they account for about 70 % of sales. Specialty items are high‑margin custom themes – military service, outdoors or religious motifs – which we design ourselves. Experiments include eco‑friendly or “green” caskets, like bamboo or cardboard, which cost $100–$700. We test a few of these to gauge demand but won’t carry large quantities until we see consistent orders. If a new design fails to sell four units within a quarter, we discontinue it.
+This document should give you some helpful tips on some important aspects of leading Eat Together, based on my past experiences. Whenever you feel stuck or whenever you need some inspiration, take a peek at this guide! You don’t need to read the entire thing at once; just focus on the sections that you think are relevant to you right now.
 
-We also avoid selling low‑cost imported caskets without customization because we can’t compete with direct‑to‑consumer pricing and they don’t align with our brand. Instead, we partner with online sellers to offer our detailing services as an add‑on, creating a new revenue stream without carrying extra inventory.
+And just to let you know, it’s okay to make mistakes. We’re all students at the end of the day, and we’re here to grow and learn together. What may have worked for me may not always work now, but try to keep the core values and culture the same, and create an open environment where you and your fellow members can explore and adapt! And remember that experience can be the greatest teacher.
 
-Interviewer: What changes do you foresee for coffin businesses in Utah over the next decade?
+I now pass you the torch of Eat Together director. You got this, and don’t hesitate to ask me/others for help!
 
-CEO: The cremation rate is expected to top 80 % by 2035, which will shrink the traditional casket market. To remain relevant, coffin businesses will need to diversify into cremation products, personalized memorials, green burials, and digital planning services. Inventory models will shift toward build‑to‑order and drop‑shipping rather than warehousing dozens of caskets. Strong supplier relationships, flexible manufacturing, and financial discipline will be critical.
+Let’s connect all students, one meal at a time. ✨
+  
+Culture 🎉
+1.	Create open environments for people to independently work as well as to do things together.
+○	Use jam sessions not only as work time, but also as time to collaborate on and discuss important things with people.
+■	Be mindful of people’s work style preferences (e.g., some may prefer async work or work alone, and that’s ok!).
+○	As a director, you may sometimes not have enough time for your own tasks, as you’ll be busy helping and taking care of people during sessions. Expect this and finish up individual tasks on your own.
+2.	Empower and encourage your team members.
+○	Give shoutouts to people who do a good job or go above and beyond!
+○	Use encouraging words to those who do well and those who might be struggling with work.
+3.	Help your team members “own” what they are working on.
+○	Although it’s tempting to do everything yourself or “carry” the project, this doesn’t create a good collaborative environment for everyone.
+■	A proverb that I like: “If you want to go fast, go alone. If you want to go far, go together.”
+■	This doesn’t mean that you can’t provide help, though; having async/synchronous check-ins and asking questions helps to see what kind of assistance they need!
+○	The more that they feel in charge of their own projects/tasks, the more they feel motivated to work, and the less work you have to do to “micro-manage” them.
+4.	Understand people’s needs, and serve them.
+○	Understand why people want to work for Eat Together, and do your best to create that kind of environment for them.
+■	Example 1: passionate about the mission. Give them opportunities to interact and eat with students/users!
+■	Example 2: professional growth. Provide projects with great learning opportunities and challenges to overcome, mentoring them along the way. Help with resume review and interview prep for other opportunities they want to pursue!
+○	Think of ways to go above and beyond (personalization)!
+○	Relationships are not about “fair trades”, but about being there for someone when they need it.
+5.	Do things with good intentions, and be genuine about them.
+○	This especially applies to tough things like giving feedback. Frame it as a way to help the person.
+6.	Eat Together. No, I mean literally!
+○	Given the mission to bring students over food, an easy and great way is to start with your team!
+○	A quick “hey, anyone want to grab food after this meeting?” can go a long way to getting to bond with your fellow teammates. Obviously, don’t force yourself/others into this if you/they are not willing.
 
-For now, however, there’s still a market for beautifully crafted caskets. By carefully analyzing demand, leveraging JIT inventory practices and focusing on customization, we keep our operations lean while honoring families’ wishes.
+ 
+Hiring 🤝
+●	Best places to send out applications: Instagram, Ed STEM (for CS), Slack (for HCDE), Discord servers
+●	Reach out to past rejected applicants for future rounds, as well as those who specified interest and reached out to you first!
+●	See if you or current team members have potential friends to refer.
+●	Reuse email templates (e.g. acceptance, rejection) by searching for past examples in our Gmail “Sent” inbox.
+○	Also in Email Templates
+●	Reuse our application tools! All in Recruiting
+
+Printing 🖨️
+HUB printing - HUB Printing Guidelines
+You can print stickers at the MILL (underneath McCarty Hall)!
+●	https://hfs.uw.edu/perks-recreation/the-mill
+●	Fill out this consent form before you go in-person: https://reg.hfs.uw.edu/Waiver/GetFacilityAccessWaivers
+●	You need to borrow one of their laptops that has Adobe software to print stickers. They have a helpful sticker-printing tutorial there for you to follow!
+●	You can also print t-shirts, but you need to provide the blank shirts yourself.
+
+Reservations 🪟
+Room reservations at UW are made online at https://www.gomazevo.com/. Make sure to sign up/log in with your UW NetID!
+●	HUB reservation process (2 hours/week for free): https://hub.washington.edu/reserve/book-a-space/how-to-reserve/
+●	Reserving Group 1 rooms (2 hours/week for free): https://eventservices.uw.edu/classroom-rental-policy/
+
+However, if you need a quick room to reserve (or you ran out of reservation options) for things like user testing sessions or onboarding, the UW libraries (https://cal.lib.uw.edu/) are the way to go!
+Quick tip: Whenever I reserve large rooms in Odegaard for team meetings, I always reserve them exactly 2 weeks in advance. Put a reminder on your calendar to do this (if you plan on using this strategy for room booking)!
+
+ 
+People and Conflicts 🤔
+This is one of the crucial parts of being a director—your people skills. Your job isn’t necessarily to do the tasks that you can assign to others, but rather to serve their needs and ensure that they have the capability, tools, and support to accomplish what they need to do. Sometimes, though, conflicts will undoubtedly arise, and you may feel pressured as a leader to take ownership of them and try to resolve them as fast as possible. It’s good to take ownership, and it’s normal to feel overwhelmed sometimes, but remember to be patient. Conflict resolution isn’t about quick fixes, but it’s about building an open space to hear people’s voices so that you and the team can find the root cause and take the right next steps. And remember that you’re not alone in this—lean on team members, mentors, trusted friends—and use this discomfort as a learning opportunity to come out stronger.
+
+Here are 2 common scenarios that you may have to deal with, as well as my advice on how to navigate them:
+
+Team Member Continued Absence/Lack of Work
+First of all, NEVER jump to conclusions. Just because someone is slacking doesn’t mean that they’re doing it intentionally. Reasons could include: unexpectedly busy schedule, emergency situations, personal/family matters, …
+You want to make sure that you understand the root cause. Ask them a quick message, like “Hey, I noticed that you haven’t been as active as before in Eat Together; just wanted to check in and see how you’re doing?”
+If they aren’t responsive:
+●	Follow up after 2-3 days.
+●	Use a different way to contact them (e.g. email, phone number).
+Hopefully, you get a response from them by this point! Once you’ve established communication, try to chat 1-1 synchronously (in-person or online) to better understand their situation. Be an active listener, be empathetic and forgiving, but also try to gauge their motivation/interest in continuing with Eat Together.
+If they don’t seem motivated to work for Eat Together, it may be best to let them go. Otherwise, great! Try to come up with alternate ways for them to continue staying involved. Some examples of things to consider:
+●	Have a weekly sync time (or office hours, however you want to call it) specifically for them, especially if they can’t make the usual weekly meetings.
+●	Use a different method of communication if Discord (or insert other communication tool here) isn’t their thing.
+●	Lower the scope of their task/project. See if others can help!
+
+Disagreements in Group Discussions
+Given the diversity of thought, this is bound to happen. A straightforward solution would be to approach the conflict democratically (i.e., “most votes”). This works for small decisions like time scheduling, where to eat, etc., but a lot of cases are more complicated than a simple vote …
+First, ensure that everyone has the same main objective(s) in mind. If people don’t get why they’re making the decision that they’re making, or if it’s off-tangent with the main goal(s), then it’s hard to justify it. For instance, at an Amazon internship, I once disagreed with my manager about making changes to other internal teams’ codebases regarding a change to a dependency I made. I wanted to make the changes for customer satisfaction, but my manager wanted to skip this due to the tight timeline of the internship; in other words, I prioritized quality while my manager prioritized speed. Eventually, we both agreed that quality would be a more important main objective, hence agreeing to the same decision of making the code changes for other teams.
+Next, create a comfortable, open environment for everyone to share their opinions. Lead the discussion—try to reach a common ground—encourage everyone to listen attentively to each other, and promote good team conduct. Ask clarifying questions whenever something isn’t clear, and avoid bias/emotion when judging thoughts.
+Once everyone has finished sharing their thoughts, encourage them to come up with a solution/solutions together, and carefully consider the pros and cons of each. If needed, take more time outside the discussion to reflect and come up with a final decision, getting more input from others if needed. Once you’ve made a decision, communicate it clearly to everyone, and if it compromises things some people have said, make sure that they’re okay with it.
+
+ 
+Getting Stuff Done 💪
+1.	Ensure that people understand the “why” of what they’re doing.
+a.	Purpose gives motivation for doing things.
+b.	There should be meaning to everything, even if it’s small.
+c.	Sometimes, it’s also about the journey, not the result. If you learned a lot from doing something, then that’s meaningful!
+2.	Break down a big task into smaller tasks, until those tasks are clear in stating what the person should specifically do.
+a.	E.g., restaurant outreach -> reach out to Cafe on the Ave -> go eat at the restaurant and talk to manager about proposal
+b.	It’s alright if the final deadline isn’t clear, but make it clearer as you get closer to the finish line.
+c.	Think about what the person needs to be able to accomplish the task(s) (skills, tools, etc.), and help them with that if needed.
+3.	Make sure that the deadlines for small tasks are clear, and have progressive check-ins for these to see if extensions or lowering the scope may be required or not.
+a.	We use ClickUp to track these deadlines.
+b.	Try to make these tasks due in no later than 2 weeks, so that people don’t feel overwhelmed or lose focus. Industry loves 2-week sprints for a reason.
+i.	Exception: anything that has a rigid quarter schedule, like a marketing schedule.
+c.	Be mindful of busy times, like midterms and finals.
+4.	Give appropriate motivation and recognition!
+a.	Words of encouragement and praise can go a long way. It may sound annoying/unnatural at first, but over time, you’ll see the value in this, especially in a school environment that kinda lacks these interactions.
+b.	Going the extra mile: surprise members with food or small gifts!
+Conclusion 🌯
+Being the director of Eat Together has genuinely been one of the greatest highlights of my entire life. You’ll get to experience lots of ups and downs leading such a team/project, but I hope that you get to enjoy this journey and gain invaluable skills and experiences out of it that will last a lifetime. Thank you once again for taking on this mantle; you will do great things! 🛣️
