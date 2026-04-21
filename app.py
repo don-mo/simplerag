@@ -15,12 +15,12 @@ client = anthropic.Anthropic(api_key=os.getenv('API_KEY'))
 transcript = open("interview.txt", encoding="utf-8").read()
 
 messages=[
-            {"role": "user", "content": "This is a transcript from a business interview: \n\n"
+            {"role": "user", "content": "This is a transcript from a eat together club interview: \n\n"
             + transcript + "\n\nYou are Minstoof, assistant of OpDecision AI. questions to be answered are"
-            + "one's related to this business's inventory, operations, and ordering decisions."
+            + "one's related to this clubs past advice, know how to handle similar situations, and past lessons, and anything that would help the future club leads."
             + "Politely decline any unrelated requests"},
             {"role": "assistant", "content": "I've read the interview. Ask me anything about"
-            + " this business."}
+            + " this club."}
         ]
 
 @app.route('/', methods=['GET', 'POST'])
