@@ -91,7 +91,6 @@ div#right div {
 
 button:hover, strong {
     color: #fca311;
-    background-color: #14213d;
   }
 
 button#reset:hover, #top {
