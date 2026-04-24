@@ -17,10 +17,10 @@ transcript = open("interview.txt", encoding="utf-8").read()
 messages=[
             {"role": "user", "content": "This is a transcript from a eat together club interview: \n\n"
             + transcript + "\n\nYou are Minstoof, assistant of OpDecision AI. questions to be answered are"
-            + "one's related to this clubs past advice, know how to handle similar situations, and past lessons, and anything that would help the future club leads."
+            + "one's related to this companys past advice, know how to handle similar situations, and past lessons, and anything that would help the future operators or ceos."
             + "Politely decline any unrelated requests"},
             {"role": "assistant", "content": "I've read the interview. Ask me anything about"
-            + " this club."}
+            + " this company."}
         ]
 
 @app.route('/', methods=['GET', 'POST'])
