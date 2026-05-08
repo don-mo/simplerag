@@ -1,50 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>RAG Question Answering</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}"> <!-- Link to your CSS file and static is the place flask asks for static files instead of the root so you start with css instead of protoragproject -->
-  </head>
-  <body>
-    <div class="container">
-      <div id="top">
-        <h1>OpDecision AI</h1>
-      </div>
-      <!-- <div id="left">
-        <p>left</p>
-      </div> -->
-      <div id="right">
-        <div id="sub-header">Minstoof v1: U ´ᴥ` U</div>
-        <div id="content-area">
-          <form method="post">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+  <title>OpDecision AI</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/main.css') }}">
+</head>
+<body>
+<div id="app">
 
-            <textarea name="question" rows="5" cols="30" placeholder="Please ask a question"></textarea>
-            <div id="buttons-container">
-              <a><button type="submit">Ask</button></a>
-              <a href="/reset"><button type="button" id="reset">Reset</button></a>
-            </div>
-          </form>
-
-          </form>
-          {% if messages %}
-            <h2 id="Opdecision">Minstoof's answer:</h2>
-            {% for message in messages[2:] %}
-              {% if message.role == "user" %}
-                <div class="user-msg">You: {{ message.content }}</div>
-              {% else %}
-                <div class="assistant-msg">Minstoof: {{ message.content | safe }}</div>
-              {% endif %}
-            {% endfor %}
-          {% endif %}
-        </div>
-
-      </div>
+  <!-- ── Fixed header ── -->
+  <div id="top">
+    <h1>OpDecision AI</h1>
+    <div id="user-controls">
+      <span id="user-name">{{ user.name }}</span>
+      <a href="/logout"><button type="button" id="logout-btn">Logout</button></a>
     </div>
-  </body>
+  </div>
 
-  <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+  <!-- ── Scrollable chat area ── -->
+  <div id="chat-area">
+    <div id="messages">
+      {% for message in messages[2:] %}
+        {% if message.role == "user" %}
+          <div class="user-msg"><strong>You:</strong> {{ message.content }}</div>
+        {% else %}
+          <div class="assistant-msg"><strong>Minstoof:</strong> <span>{{ message.content | safe }}</span></div>
+        {% endif %}
+      {% endfor %}
+    </div>
+
+    <!-- Dog loading animation (shown while waiting) -->
+    <div id="dog-loading" class="hidden">
+      <div class="dog-speech">Minstoof is thinking...</div>
+      <div class="dog-face-anim">U ´ᴥ` U</div>
+      <div class="dog-paws">~ ~ ~</div>
+    </div>
+  </div>
+
+  <!-- ── Input pinned to bottom ── -->
+  <div id="input-area">
+    <div id="sub-header">Minstoof v1 &nbsp; U ´ᴥ` U &nbsp;—&nbsp; Enter to send &nbsp;·&nbsp; Shift+Enter for newline</div>
+    <form id="chat-form" method="post">
+      <div id="form-inner">
+        <textarea id="question-input" name="question" placeholder="Ask Minstoof anything..."></textarea>
+        <div id="buttons-container">
+          <button type="submit" id="ask-btn">Ask</button>
+          <a href="/reset"><button type="button" id="reset">Reset</button></a>
+        </div>
+      </div>
+    </form>
+  </div>
+
+</div>
+<script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
 </html>
