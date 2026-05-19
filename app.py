@@ -45,7 +45,7 @@ SYSTEM_PROMPT = (
     "Here is the interview transcript:\n\n" + transcript +
     "\n\nAnswer questions about this company's past advice, lessons, "
     "and anything that helps future operators or CEOs. "
-    "Politely decline unrelated requests."
+    "Politely decline unrelated requests. Anything that is not related to this companys past advice lessons and anything that helps future operators or ceos of this company, DO NOT ANSWER."
 )
 
 @app.route('/', methods=['GET', 'POST'])
