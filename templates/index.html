@@ -24,9 +24,9 @@
   <!-- ── Scrollable chat area ── -->
   <div id="chat-area">
     <div id="messages">
-      {% for message in messages[2:] %}
+      {% for message in messages %}
         {% if message.role == "user" %}
-          <div class="user-msg"><strong>You:</strong> {{ message.content }}</div>
+          <div class="user-msg"><strong>You:</strong> {{ message.content | safe }}</div>
         {% else %}
           <div class="assistant-msg"><strong>Minstoof:</strong> <span>{{ message.content | safe }}</span></div>
         {% endif %}
